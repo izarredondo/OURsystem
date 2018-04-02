@@ -1,0 +1,8 @@
+CRN: 45179
+Sub: CPSC
+Num: 2100
+Name: Software Design and Development
+Cap: 25
+Days: TR
+Time: 12:15-1:30p
+Instr: Schwab

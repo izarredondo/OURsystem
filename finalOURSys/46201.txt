@@ -1,0 +1,8 @@
+CRN: 46201
+Sub: ENGR
+Num: 2220
+Name: Probability and Statistics for Engineering
+Cap: 25
+Days: MWF
+Time: 12:15-1:30p
+Instr: Akens

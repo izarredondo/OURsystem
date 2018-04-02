@@ -1,0 +1,8 @@
+CRN: 42554
+Sub: CPEN
+Num: 4700
+Name: Computer Architecture
+Cap: 25
+Days: TR
+Time: 2-3:15p
+Instr: Dumas

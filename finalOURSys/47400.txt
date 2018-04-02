@@ -1,0 +1,8 @@
+CRN: 47400
+Sub: ENEE
+Num: 4710
+Name: Embedded Systems
+Cap: 25
+Days: TR
+Time: 1:40-2:55p
+Instr: Loveless

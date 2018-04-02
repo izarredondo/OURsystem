@@ -1,0 +1,5 @@
+45179	CPSC	2100	Software Design and Development	25	TR	12:15-1:30p	Schwab	
+46201	ENGR	2220	Probability and Statistics for Engineering	25	MWF	12:15-1:30p	Akens	
+42554	CPEN	4700	Computer Architecture	25	TR	2-3:15p	Dumas	
+42530	CPSC	3610	Computer Ethics	203	TR	10:50-12:05p	McCullough	
+47400	ENEE	4710	Embedded Systems	25	TR	1:40-2:55p	Loveless	
